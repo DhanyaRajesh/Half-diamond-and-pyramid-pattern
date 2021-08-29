@@ -1,12 +1,4 @@
 # Half-diamond-and-pyramid-pattern
-Half pyramid
+This is the python program which takes input from user asking for line to print half pyramid and diamond then print respective lines of half diamond and pyramid using asterisk(*) symbols.
 
-If
-INPUT: 
-5
-OUTPUT:
-*
-**
-***
-****
-*****
+
